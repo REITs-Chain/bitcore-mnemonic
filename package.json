@@ -1,8 +1,8 @@
 {
-  "name": "bitcore-mnemonic",
+  "name": "reitscore-mnemonic",
   "version": "1.1.1",
   "description": "BIP39 Mnemonics implemented for Bitcore.",
-  "author": "BitPay <dev@bitpay.com>",
+  "author": "danyang.wang@gamil.com",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -10,15 +10,9 @@
     "coverage": "gulp coverage",
     "build": "gulp"
   },
-  "contributors": [
-    {
-      "name": "Yemel Jardi",
-      "email": "angel.jardi@gmail.com"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-mnemonic.git"
+    "url": "https://github.com/cssxn/bitcore-mnemonic.git"
   },
   "keywords": [
     "bitcoin",
@@ -38,7 +32,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "bitcore-lib": "^0.13.7",
+    "reitscore-lib": "latest",
     "unorm": "^1.3.3"
   }
 }
