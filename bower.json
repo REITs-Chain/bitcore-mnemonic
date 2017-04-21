@@ -1,8 +1,8 @@
 {
   "name": "reitscore-mnemonic",
   "main": "./bitcore-mnemonic.min.js",
-  "version": "1.1.1",
-  "homepage": "https://github.com/bitpay/bitcore-mnemonic",
+  "version": "1.1.2",
+  "homepage": "https://github.com/cssxn/bitcore-mnemonic",
   "authors": [
     "BitPay"
   ],

@@ -2,5 +2,6 @@
 
 var gulp_bitcore = require('bitcore-build');
 
-gulp_bitcore('mnemonic');
+var res = gulp_bitcore('mnemonic');
 
+console.log(res)
