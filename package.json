@@ -1,6 +1,6 @@
 {
   "name": "reitscore-mnemonic",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "BIP39 Mnemonics implemented for Bitcore.",
   "author": "danyang.wang@gamil.com",
   "main": "index.js",
@@ -8,20 +8,12 @@
     "lint": "gulp lint",
     "test": "gulp test",
     "coverage": "gulp coverage",
-    "build": "gulp"
+    "build": "gulp browser"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/cssxn/bitcore-mnemonic.git"
   },
-  "keywords": [
-    "bitcoin",
-    "bitcore",
-    "mnemonic",
-    "crypto",
-    "cryptography",
-    "encryption"
-  ],
   "license": "MIT",
   "devDependencies": {
     "assert": "^1.1.2",
